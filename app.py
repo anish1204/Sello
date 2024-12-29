@@ -3,7 +3,7 @@ from flask_cors import CORS
 import pickle
 
 # Load the trained model
-with open('./logistic_regression_model.pkl', 'rb') as file:
+with open('./Adaboost_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 with open('scaler.pkl', 'rb') as scaler_file:
