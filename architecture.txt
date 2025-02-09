@@ -1,0 +1,17 @@
+Frontend login signup page not designing (DONE)
+nodejs mongodb intgration 
+role based pass to admin user or webpagesellers
+Email Service
+
+
+FrontEnd -> 
+Login 
+AdminPage -> having subs users stats
+UserPage -> Sales Page
+Add feature 
+Predict model
+
+
+
+
+Backend ->
