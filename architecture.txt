@@ -1,9 +1,15 @@
 Frontend login signup page not designing (DONE)
-nodejs mongodb intgration 
+nodejs mongodb intgration (DONE)
+
+GET all data from MongoDB (Done)
+Post (Pending)
+
+
 role based pass to admin user or webpagesellers
 Email Service
 
 
+(Completed)
 FrontEnd -> 
 Login 
 AdminPage -> having subs users stats
